@@ -10,6 +10,10 @@ Goode reference & seed projects: [meanjs](http://meanjs.org/), [meanio](http://m
 
 Other Tools: [GRUNT](http://gruntjs.com) a JS Task Runner, may need to do <b>minification</b>!
 
+## MongoDB Introduction
+
+Take a look at `MongoDB & Shell.md`, for why should we and how to begin using MongoDB 
+
 ## Notes on running the project locally
 
 To start the server
